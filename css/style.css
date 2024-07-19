@@ -1023,7 +1023,7 @@ body.offcanvas {
       transform: translate3d(0, 0, 0); }
 
 .btn-load-more {
-  width: 100%; }
+  width: 100%; display: none;}
 
 #colorlib-counter {
   position: relative;
